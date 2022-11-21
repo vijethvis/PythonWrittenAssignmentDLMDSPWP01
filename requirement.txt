@@ -1,0 +1,5 @@
+pandas
+pysqlite3
+sqlalchemy
+scipy
+bokeh
